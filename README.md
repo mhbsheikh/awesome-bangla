@@ -45,6 +45,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR)](https://data.mendeley.com/datasets/743k6dm543/1) (PUC, Chittagong)
  - [Bangla Synthetic License Plates Dataset](https://github.com/zabir-nabil/bangla-synthetic-license-plates) (Zabir Al Nazi)
  - [Bengali Speech Dataset](https://commonvoice.mozilla.org/bn/datasets) (Common Voice, Mozilla)
+ - [Bangla Spelling Error Correction Corpus](https://github.com/mehedihasanbijoy/DPCSpell) (Mehedi Hasan Bijoy et al.)
 
 ## NLP Tools, Scripts and Utilities (also Projects)
 ### NLP Tools
@@ -106,9 +107,12 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - Apona Pathok - Bangla TTS (Lost)
  - [bangla-tts (Deep CNN based real-time (GPU) TTS)](https://github.com/zabir-nabil/bangla-tts) (Zabir Al Nazi)
 
-### Others
+### Bangla Spell & Grammar Checker
  - [Bengali Spell Checking](https://github.com/AnkurBD/bengali-spellcheck) (Ankur)
  - [Bangla Contextual Spell Checker](https://github.com/MahirMahbub/Contextual-Spell-Checker-For-Bangla) (Mahir Mahbub)
+ - [DPCSpell: A Transformer-based Framework for Spelling Error Correction of Bangla](https://arxiv.org/ftp/arxiv/papers/2211/2211.03730.pdf) (Mehedi Hasan Bijoy et al.)
+
+### Others
  - [Bagha - Personal Assistant](https://github.com/reyadrahman/Bagha) (Reyad Rahman)
  - [Bangla News Category Classification with Bidirectional LSTM](https://github.com/zabir-nabil/bangla-news-rnn) (Zabir Al Nazi)
  - [Aurthohin - Gibberish Bangla text generator](https://github.com/lifeparticle/Aurthohin)
